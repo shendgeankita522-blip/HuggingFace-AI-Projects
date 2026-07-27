@@ -1,0 +1,17 @@
+torch
+diffusers
+transformers
+accelerate
+huggingface_hub
+gradio
+matplotlib
+numpy
+pandas
+opencv-python
+Pillow
+soundfile
+deep-translator
+tqdm
+scipy
+sentencepiece
+safetensors
