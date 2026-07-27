@@ -188,20 +188,6 @@ pip install -r requirements.txt
 
 ---
 
-# 📸 Sample Outputs
-
-You can add generated outputs from your projects here.
-
-Examples:
-
-- 🖼️ Stable Diffusion Images
-- 🎨 Image-to-Image Results
-- 🌍 Multilingual Image Generation
-- 🔊 Stable Audio Outputs
-- 🤖 Gradio Interface Screenshots
-
----
-
 # 📚 Learning Outcomes
 
 This repository helped me gain practical experience in:
