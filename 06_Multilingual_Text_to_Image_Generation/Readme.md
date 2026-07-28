@@ -65,18 +65,6 @@ This project translates prompts from multiple languages into English and generat
 
 ## 📸 Output
 
-### Hindi Prompt Output
-
-![Hindi Output](Output/Multilanguage%20Output.png)
-
----
-
-### Telugu Prompt Output
-
-![Telugu Output](Output/Multilanguage%20Output%20%282%29.png)
-
----
-
 ### Marathi Prompt Output
 
 ![Marathi Output](Output/Multilanguage%20Output.png)
