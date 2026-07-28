@@ -33,15 +33,7 @@ This project transforms an input image into a new AI-generated image using Stabl
 
 ## 📸 Output
 
-### Input Image
-
-![Input Image](outputs/input_image.png)
-
----
-
-### Generated Image
-
-![Generated Image](outputs/generated_image.png)
+"C:\Users\Dell\OneDrive\图片\Screenshots 1\Ghiubli output.png"
 
 ---
 
