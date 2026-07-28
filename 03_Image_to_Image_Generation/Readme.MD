@@ -1,0 +1,62 @@
+# Image-to-Image Generation
+
+## 📌 Overview
+
+This project transforms an input image into a new AI-generated image using Stable Diffusion Image-to-Image models.
+
+---
+
+## ✨ Features
+
+- Image Transformation
+- AI Image Editing
+- Stable Diffusion Image-to-Image Generation
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- PyTorch
+- Hugging Face Diffusers
+- Pillow
+
+---
+
+## ▶️ How to Run
+
+1. Upload an input image.
+2. Enter a descriptive prompt.
+3. Generate the transformed image.
+
+---
+
+## 📸 Output
+
+### Input Image
+
+![Input Image](outputs/input_image.png)
+
+---
+
+### Generated Image
+
+![Generated Image](outputs/generated_image.png)
+
+---
+
+### Before vs After
+
+| Input Image | Generated Image |
+|--------------|-----------------|
+| ![](outputs/input_image.png) | ![](outputs/generated_image.png) |
+
+---
+
+## 📚 Learning Outcomes
+
+- Image-to-Image Translation
+- Stable Diffusion Models
+- AI Image Editing
+- Hugging Face Diffusers
+- Prompt Engineering
