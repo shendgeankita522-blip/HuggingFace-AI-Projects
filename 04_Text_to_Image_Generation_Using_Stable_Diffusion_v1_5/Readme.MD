@@ -35,14 +35,11 @@ Astronaut riding a horse on Mars
 
 ### Output 1
 
-![Generated Image 1](outputs/Screenshot%202026-07-28%20144003.png)
-
----
+![Output 1](outputs/output1.png)
 
 ### Output 2
 
-![Generated Image 2](outputs/Screenshot%202026-07-28%20144023.png)
-
+![Output 2](outputs/output2.png)
 ---
 
 ## 📚 Learning Outcomes
